@@ -1,0 +1,20 @@
+{
+  "name": "stm-studio",
+  "version": "1.0.0",
+  "description": "Thsi is Video Steamming platfoorm . this is simple and leaarnig platform",
+  "license": "ISC",
+  "author": "NAV",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
